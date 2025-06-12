@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/Delta-Water/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Delta-Water" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delta-Water" /></a>
+<a href="https://github.com/Delta-Water/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Delta-Water&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delta-Water&bg_color=0,52fa5a,4dfcff,c64dff" /></a>
