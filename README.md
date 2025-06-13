@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Delta-Water/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Delta-Water&hide_border=true&line_height=21&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Delta-Water&line_height=21&layout=compact&hide_border=true&bg_color=0,52fa5a,4dfcff,c64dff" /></a>
 
-### I'm belonging to [Lifelong-Learning-Water](https://github.com/Lifelong-Learning-Water), and here are some repos of it owns:
+### I'm belonging to [Lifelong-Learning-Water](https://github.com/Lifelong-Learning-Water), and here are some repos of it:
 
 #### Habitica-Party
 <a href="https://github.com/Lifelong-Learning-Water/Habitica-Party">
